@@ -712,7 +712,7 @@ on this endstop.
 // If EEPROM is enabled these values will be overidden with the values in the EEPROM
 #define X_MAX_LENGTH 220
 #define Y_MAX_LENGTH 218
-#define Z_MAX_LENGTH 140
+#define Z_MAX_LENGTH 160
 
 // Coordinates for the minimum axis. Can also be negative if you want to have the bed start at 0 and the printer can go to the left side
 // of the bed. Maximum coordinate is given by adding the above X_MAX_LENGTH values.
